@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 24, 2020 (Example 1)
+**Today's Progress**: Worked on Javascript, Specifically on ES6.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I am fairly new to Javascript and trying to understand the syntax. The flexibility of using variables can cause problems when writing code. ES6 fixes most of the problems. I have listed few of the thing down.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+The coding for today involved running through the FreeCodeCamp curriculum for ES6. I compiled all that I learned in one file
+and saved it in the src folder.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1) Difference Between var and let (let is much more stricter and reduces the variable to a scope, var declares it as global)
+2) Objects assigned using const are mutable. Ex: Arrays and Functions.
+3) Inline functions do not need a name
+4) Arrow functions don't require a return Keyword
+5) ES6 introduces default parameters
+6) Spread operator (...args) only works inline, as args to function or array literals.
+7) Array can be destructured using ..spread operator
