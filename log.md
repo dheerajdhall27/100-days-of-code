@@ -3,6 +3,8 @@
 ### Day 0: February 24, 2020 (Example 1)
 **Today's Progress**: Worked on Javascript, Specifically on ES6.
 
+**Link to work**: https://github.com/dheerajdhall27/100-days-of-code/tree/master/src/Day0
+
 **Thoughts:** I am fairly new to Javascript and trying to understand the syntax. The flexibility of using variables can cause problems when writing code. ES6 fixes most of the problems. I have listed few of the thing down.
 
 The coding for today involved running through the FreeCodeCamp curriculum for ES6. I compiled all that I learned in one file
