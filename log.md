@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 24, 2020 (Example 1)
+### Day 0: February 24, 2020
 **Today's Progress**: Worked on Javascript, Specifically on ES6.
 
 **Link to work**: https://github.com/dheerajdhall27/100-days-of-code/tree/master/src/Day0
@@ -17,3 +17,20 @@ and saved it in the src folder.
 5) ES6 introduces default parameters
 6) Spread operator (...args) only works inline, as args to function or array literals.
 7) Array can be destructured using ..spread operator
+
+****************************************************************************************************************************************
+### Day 1: February 25, 2020 
+**Today's Progress**: Worked on two frontend projects. A step towards Frontend certification from freecodecamp.
+
+**Link to work**: 1) https://codepen.io/dheerajdhall/pen/PoqpZQR
+                  2) https://codepen.io/dheerajdhall/pen/GRJWZJX
+
+**Thoughts:** Getting better at frontend technologies. But, should use React for the frontend development.
+
+The code is available on the pens linked above, the src folder will not consist of any code for this project.
+
+1) Learned about Form validation.
+2) Used card class to create the form layout. (Very useful)
+
+There was not a lot of new concepts that I learned today, but started work on two mini projects.
+
