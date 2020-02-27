@@ -34,3 +34,14 @@ The code is available on the pens linked above, the src folder will not consist 
 
 There was not a lot of new concepts that I learned today, but started work on two mini projects.
 
+****************************************************************************************************************************************
+### Day 2: February 26, 2020 
+**Today's Progress**: Finished the second Frontend project for the certification on freecodecamp. Started work on the Third Project
+
+**Link to work**: 1) https://codepen.io/dheerajdhall/full/GRJWZJX
+                  2) https://codepen.io/dheerajdhall/full/eYNvoZb
+
+**Thoughts:** Need to focus on CSS and learn about flex and media queries
+
+The code is available on the pens linked above, the src folder will not consist of any code for this project.
+
