@@ -45,3 +45,14 @@ There was not a lot of new concepts that I learned today, but started work on tw
 
 The code is available on the pens linked above, the src folder will not consist of any code for this project.
 
+****************************************************************************************************************************************
+### Day 3: February 27, 2020 
+**Today's Progress**: Finished the Module on ES6 on FreeCodecamp. Read about REST services, React and Redux
+
+**Link to work**: Spent reading about technologies. The coding for today was mainly on FreeCodeCamp.
+
+**Thoughts:** The modularity approach of react makes it very easy to create components that can be re-used.
+              ES6 makes it easy to write code by approaching OOP standards.
+
+The src folder for today would be empty.
+
