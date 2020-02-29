@@ -56,3 +56,13 @@ The code is available on the pens linked above, the src folder will not consist 
 
 The src folder for today would be empty.
 
+****************************************************************************************************************************************
+### Day 4: February 28, 2020 
+**Today's Progress**: Worked on the third project for the front end certification.
+
+**Link to work**: https://codepen.io/dheerajdhall/pen/eYNvoZb
+
+**Thoughts:** Could not figure out How to align the image and nav bar inside header. Added the basic functionality required in the 
+              project.
+
+
