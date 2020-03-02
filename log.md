@@ -73,4 +73,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Front end is easy and hard at the same time. Can be a bit annoying. I love backend for sure.
 
+****************************************************************************************************************************************
+### Day 6: March 1, 2020 
+**Today's Progress**: Finished the Third project and made it completely responsive.
+
+**Link to work**: https://codepen.io/dheerajdhall/full/eYNvoZb
+
+**Thoughts:** It is fun and frustrating working with frontend. I think I am developing a love-hate relationship.
+
 
