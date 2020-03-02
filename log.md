@@ -65,4 +65,12 @@ The src folder for today would be empty.
 **Thoughts:** Could not figure out How to align the image and nav bar inside header. Added the basic functionality required in the 
               project.
 
+****************************************************************************************************************************************
+### Day 5: February 29, 2020 
+**Today's Progress**: Worked on the third project for the front end certification. Finished the basic requirements. Need to work on alignment and media queries
+
+**Link to work**: https://codepen.io/dheerajdhall/full/eYNvoZb
+
+**Thoughts:** Front end is easy and hard at the same time. Can be a bit annoying. I love backend for sure.
+
 
