@@ -81,4 +81,19 @@ The src folder for today would be empty.
 
 **Thoughts:** It is fun and frustrating working with frontend. I think I am developing a love-hate relationship.
 
+****************************************************************************************************************************************
+### Day 7: March 2, 2020 
+**Today's Progress**: Started work on the 4th frontend project on freecodecamp.org. Finished majority of the work
+
+**Link to work**: ****************************************************************************************************************************************
+### Day 6: March 1, 2020 
+**Today's Progress**: Finished the Third project and made it completely responsive.
+
+**Link to work**: https://codepen.io/dheerajdhall/full/eYNvoZb
+
+**Thoughts:** Working on technical documentation gave me an insight into the structuring of technical pages.
+
+
+**Thoughts:** It is fun and frustrating working with frontend. I think I am developing a love-hate relationship.
+
 
