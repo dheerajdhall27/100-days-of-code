@@ -95,5 +95,13 @@ The src folder for today would be empty.
 
 **Thoughts:** Choosing color schemes is hard
 
+****************************************************************************************************************************************
+### Day 9: March 4, 2020 
+**Today's Progress**: Continued to work on the Personal Portfolio project. 
+
+**Link to work**: https://codepen.io/dheerajdhall/full/YzXxOvz
+
+**Thoughts:** Designing is hard! need to figure out proper colors and positions.
+
 
 
