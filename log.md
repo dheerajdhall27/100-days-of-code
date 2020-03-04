@@ -85,15 +85,15 @@ The src folder for today would be empty.
 ### Day 7: March 2, 2020 
 **Today's Progress**: Started work on the 4th frontend project on freecodecamp.org. Finished majority of the work
 
-**Link to work**: ****************************************************************************************************************************************
-### Day 6: March 1, 2020 
-**Today's Progress**: Finished the Third project and made it completely responsive.
+**Link to work**: 
 
-**Link to work**: https://codepen.io/dheerajdhall/full/eYNvoZb
+****************************************************************************************************************************************
+### Day 8: March 3, 2020 
+**Today's Progress**: Started work on the fifth project along with the 4th projet on freecodecamp.org.
 
-**Thoughts:** Working on technical documentation gave me an insight into the structuring of technical pages.
+**Link to work**: https://codepen.io/dheerajdhall/full/YzXxOvz
 
+**Thoughts:** Choosing color schemes is hard
 
-**Thoughts:** It is fun and frustrating working with frontend. I think I am developing a love-hate relationship.
 
 
