@@ -103,5 +103,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Designing is hard! need to figure out proper colors and positions.
 
+****************************************************************************************************************************************
+### Day 10: March 5, 2020 
+**Today's Progress**: Took a brek from webdev. Worked on understanding how to write basic makefiles and how to run SFML from the command line. Worked on a cmake a bit.
+
+**Thoughts:** Make files make life that much easier. Cmake is an amazing tool to have.
+
 
 
