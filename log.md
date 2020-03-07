@@ -105,9 +105,15 @@ The src folder for today would be empty.
 
 ****************************************************************************************************************************************
 ### Day 10: March 5, 2020 
-**Today's Progress**: Took a brek from webdev. Worked on understanding how to write basic makefiles and how to run SFML from the command line. Worked on a cmake a bit.
+**Today's Progress**: Took a break from webdev. Worked on understanding how to write basic makefiles and how to run SFML from the command line. Worked on a cmake a bit.
 
 **Thoughts:** Make files make life that much easier. Cmake is an amazing tool to have.
+
+****************************************************************************************************************************************
+### Day 11: March 6, 2020 
+**Today's Progress**: Read about the SFML library and the documentation. Will start building a Pong game which would be multiplayer
+
+**Thoughts:** SFML documentation is easy to understand the methods written do what they say
 
 
 
