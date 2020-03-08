@@ -1,0 +1,1 @@
+Went through the SFML documentation
