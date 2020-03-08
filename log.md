@@ -115,5 +115,11 @@ The src folder for today would be empty.
 
 **Thoughts:** SFML documentation is easy to understand the methods written do what they say
 
+****************************************************************************************************************************************
+### Day 12: March 7, 2020 
+**Today's Progress**: Worked on te Pong game and created a version that can be played locally. Next step is to make it multiplayer
+
+**Thoughts:** Writing collision detection is fun.
+
 
 
