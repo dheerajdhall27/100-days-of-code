@@ -121,5 +121,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Writing collision detection is fun.
 
+****************************************************************************************************************************************
+### Day 13: March 8, 2020 
+**Today's Progress**: Worked on the Network module in SFML and wrote a small app following the Networking chapter in the book SFML Essentials by Milcho G. Milchev
+
+**Thoughts:** Networking is a bit harder than I thought. Also, need to restructure my code. Been working in a single file should modularize it
+
 
 
