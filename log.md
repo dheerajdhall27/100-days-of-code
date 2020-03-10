@@ -127,5 +127,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Networking is a bit harder than I thought. Also, need to restructure my code. Been working in a single file should modularize it
 
+****************************************************************************************************************************************
+### Day 14: March 9, 2020 
+**Today's Progress**: Read about SFML networking, could not make progress with the Pong Game. So, took a break and worked on visualization certification on freecodecamp. Worked on learning D3.
+
+**Thoughts:** Will need to consult my professor to learn about Networking.
+
 
 
