@@ -133,5 +133,14 @@ The src folder for today would be empty.
 
 **Thoughts:** Will need to consult my professor to learn about Networking.
 
+****************************************************************************************************************************************
+### Day 15: March 9, 2020 
+**Today's Progress**: Went back to webdev and worked on the Responsive Design certification. Finished the 4th project and almost done with the 5th.
+
+**Links** :1) https://codepen.io/dheerajdhall/full/poJwVwa
+           2) https://codepen.io/dheerajdhall/full/YzXxOvz
+
+**Thoughts:** Still having trouble choosing the right pallete. Need to work on the visualization certification too. The curriculum on Freecodecamp is one of the best
+
 
 
