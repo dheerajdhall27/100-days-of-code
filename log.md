@@ -150,5 +150,11 @@ The src folder for today would be empty.
 
 **Thoughts:** This was more or less a warm up. Will move to something harder soon
 
+****************************************************************************************************************************************
+### Day 17: March 12, 2020 
+**Today's Progress**: Started work on Frontend certification on Freecodecamp.org. Learnt about sass. The rest was a revision (bootstrap, jQuery)
+
+**Thoughts:**  sass does make css easy to modularize, but remembering new syntax is annoying.
+
 
 
