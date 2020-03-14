@@ -156,5 +156,11 @@ The src folder for today would be empty.
 
 **Thoughts:**  sass does make css easy to modularize, but remembering new syntax is annoying.
 
+****************************************************************************************************************************************
+### Day 18: March 13, 2020 
+**Today's Progress**: Worked on the React module for the frontend certification
+
+**Thoughts:**  Will Finish the modules soon and move onto the projects. Learned few new concept of React which I did not come across earlier
+
 
 
