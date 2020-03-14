@@ -134,13 +134,33 @@ The src folder for today would be empty.
 **Thoughts:** Will need to consult my professor to learn about Networking.
 
 ****************************************************************************************************************************************
-### Day 15: March 9, 2020 
+### Day 15: March 10, 2020 
 **Today's Progress**: Went back to webdev and worked on the Responsive Design certification. Finished the 4th project and almost done with the 5th.
 
 **Links** :1) https://codepen.io/dheerajdhall/full/poJwVwa
            2) https://codepen.io/dheerajdhall/full/YzXxOvz
 
 **Thoughts:** Still having trouble choosing the right pallete. Need to work on the visualization certification too. The curriculum on Freecodecamp is one of the best
+
+****************************************************************************************************************************************
+### Day 16: March 11, 2020 
+**Today's Progress**: Finished all the projects and claimed the Responsive web design certification
+
+**Links** :https://codepen.io/dheerajdhall/full/YzXxOvz
+
+**Thoughts:** This was more or less a warm up. Will move to something harder soon
+
+****************************************************************************************************************************************
+### Day 17: March 12, 2020 
+**Today's Progress**: Started work on Frontend certification on Freecodecamp.org. Learnt about sass. The rest was a revision (bootstrap, jQuery)
+
+**Thoughts:**  sass does make css easy to modularize, but remembering new syntax is annoying.
+
+****************************************************************************************************************************************
+### Day 18: March 13, 2020 
+**Today's Progress**: Worked on the React module for the frontend certification
+
+**Thoughts:**  Will Finish the modules soon and move onto the projects. Learned few new concept of React which I did not come across earlier
 
 
 
