@@ -1,0 +1,1 @@
+Completed the Responsive design certification
