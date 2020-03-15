@@ -162,5 +162,11 @@ The src folder for today would be empty.
 
 **Thoughts:**  Will Finish the modules soon and move onto the projects. Learned few new concept of React which I did not come across earlier
 
+****************************************************************************************************************************************
+### Day 19: March 14, 2020 
+**Today's Progress**: Finished the Redux module and then worked on unity3D. Followed the tutorials on catlikeCoding.com
+
+**Thoughts:**  Haven't worked on Unity for so long. I have forgotten most of it. Trying to get back in the groove.
+
 
 
