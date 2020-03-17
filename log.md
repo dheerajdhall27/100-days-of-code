@@ -164,9 +164,24 @@ The src folder for today would be empty.
 
 ****************************************************************************************************************************************
 ### Day 19: March 14, 2020 
+
 **Today's Progress**: Finished the Redux module and then worked on unity3D. Followed the tutorials on catlikeCoding.com
 
-**Thoughts:**  Haven't worked on Unity for so long. I have forgotten most of it. Trying to get back in the groove.
+**Thoughts:**  Haven't worked on Unity for so long. I have forgotten most of it. Trying to get back in the groove
 
+
+****************************************************************************************************************************************
+### Day 20: March 15, 2020 
+
+**Today's Progress**: Finished the React-Redux module on freecodecamp.org
+
+**Thoughts:** Gave a better idea of the flux pattern
+
+****************************************************************************************************************************************
+### Day 21: March 16, 2020 
+
+**Today's Progress**: Revisited all the React and Redux modules and started work on the first front end project for the Front end certification.
+
+**Thoughts:** Harder to write code on codepen. Loses Modularity
 
 
