@@ -177,4 +177,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Gave a better idea of the flux pattern
 
+****************************************************************************************************************************************
+### Day 21: March 16, 2020 
+
+**Today's Progress**: Revisited all the React and Redux modules and started work on the first front end project for the Front end certification.
+
+**Thoughts:** Harder to write code on codepen. Loses Modularity
+
 
