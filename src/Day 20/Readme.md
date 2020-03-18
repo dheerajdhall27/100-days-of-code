@@ -1,1 +1,0 @@
-Finished the react-redux module

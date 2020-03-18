@@ -1,1 +1,0 @@
-Work for today was mainly theory.
