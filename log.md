@@ -184,4 +184,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Harder to write code on codepen. Loses Modularity
 
+****************************************************************************************************************************************
+### Day 22: March 17, 2020 
+
+**Today's Progress**: Finished the First Fronted project. All test cases pass but, still need to work on the way the website looks.
+
+**Links:** https://codepen.io/dheerajdhall/full/gOpzELO
+
+**Thoughts:** It's annoying to write React code on codepen
 
