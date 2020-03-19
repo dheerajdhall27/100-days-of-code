@@ -193,3 +193,11 @@ The src folder for today would be empty.
 
 **Thoughts:** It's annoying to write React code on codepen
 
+****************************************************************************************************************************************
+### Day 23: March 18, 2020 
+
+**Today's Progress**: Looked into saving an Image on s3 using SpringBoot. Started with the second frontend project on freecodecamp
+
+
+**Thoughts:** Always wondered about markdown preview(Did not know what it was called)
+
