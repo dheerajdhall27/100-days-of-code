@@ -201,3 +201,14 @@ The src folder for today would be empty.
 
 **Thoughts:** Always wondered about markdown preview(Did not know what it was called)
 
+
+****************************************************************************************************************************************
+### Day 24: March 19, 2020 
+
+**Today's Progress**: Finished the second frontend projec. Created a Markdown Previewer. Learned about markdown and how the syntax works.
+
+**Links**: https://codepen.io/dheerajdhall/full/ExjRzwg
+
+
+**Thoughts:** It's so cool to write the **markdown** syntax for the **markdown** project
+
