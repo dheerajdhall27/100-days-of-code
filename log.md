@@ -212,3 +212,11 @@ The src folder for today would be empty.
 
 **Thoughts:** It's so cool to write the **markdown** syntax for the **markdown** project
 
+****************************************************************************************************************************************
+### Day 25: March 20, 2020 
+
+**Today's Progress**: Started work on the third frontend project. Started building a basic drum machine. Did not render anything yet on the website.
+
+
+**Thoughts:** falling in love with React. Will start learning angular soon so I can compare.
+
