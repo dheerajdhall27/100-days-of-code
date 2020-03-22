@@ -220,3 +220,12 @@ The src folder for today would be empty.
 
 **Thoughts:** falling in love with React. Will start learning angular soon so I can compare.
 
+
+****************************************************************************************************************************************
+### Day 26: March 21, 2020 
+
+**Today's Progress**: Worked on creating a S3 client to store images and get the image URL from S3. read about bucket policy, permissions and the AWS SDK for java. Also, worked on the drum machine. Having difficulty centering buttons.
+
+
+**Thoughts:** There is so much to learn! will try and spend time covering S3 material
+
