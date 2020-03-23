@@ -193,3 +193,39 @@ The src folder for today would be empty.
 
 **Thoughts:** It's annoying to write React code on codepen
 
+****************************************************************************************************************************************
+### Day 23: March 18, 2020 
+
+**Today's Progress**: Looked into saving an Image on s3 using SpringBoot. Started with the second frontend project on freecodecamp
+
+
+**Thoughts:** Always wondered about markdown preview(Did not know what it was called)
+
+
+****************************************************************************************************************************************
+### Day 24: March 19, 2020 
+
+**Today's Progress**: Finished the second frontend projec. Created a Markdown Previewer. Learned about markdown and how the syntax works.
+
+**Links**: https://codepen.io/dheerajdhall/full/ExjRzwg
+
+
+**Thoughts:** It's so cool to write the **markdown** syntax for the **markdown** project
+
+****************************************************************************************************************************************
+### Day 25: March 20, 2020 
+
+**Today's Progress**: Started work on the third frontend project. Started building a basic drum machine. Did not render anything yet on the website.
+
+
+**Thoughts:** falling in love with React. Will start learning angular soon so I can compare.
+
+
+****************************************************************************************************************************************
+### Day 26: March 21, 2020 
+
+**Today's Progress**: Worked on creating a S3 client to store images and get the image URL from S3. read about bucket policy, permissions and the AWS SDK for java. Also, worked on the drum machine. Having difficulty centering buttons.
+
+
+**Thoughts:** There is so much to learn! will try and spend time covering S3 material
+
