@@ -229,3 +229,12 @@ The src folder for today would be empty.
 
 **Thoughts:** There is so much to learn! will try and spend time covering S3 material
 
+
+****************************************************************************************************************************************
+### Day 27: March 22, 2020 
+
+**Today's Progress**: Finished the third Frontend Project for freecodecamp. All the test cases pass on the test suite but, still need to work on the css part.
+
+
+**Thoughts:** choosing right sound is difficult. Neede to make code more modular
+
