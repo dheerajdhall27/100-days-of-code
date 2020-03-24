@@ -238,3 +238,12 @@ The src folder for today would be empty.
 
 **Thoughts:** choosing right sound is difficult. Neede to make code more modular
 
+****************************************************************************************************************************************
+### Day 28: March 23, 2020 
+
+**Today's Progress**: Started work on the 4th frontend project. Started building a calculator.
+
+**Links:** https://codepen.io/dheerajdhall/full/WNvaQrm
+
+**Thoughts:** Even the simplest of the projects are very interesting.
+
