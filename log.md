@@ -247,3 +247,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Even the simplest of the projects are very interesting.
 
+****************************************************************************************************************************************
+### Day 29: March 24, 2020 
+
+**Today's Progress**: Continued to work on the calculator. Could not make much progress today was stuck trying to work on the design.
+
+**Links:** https://codepen.io/dheerajdhall/full/WNvaQrm
+
+**Thoughts:** Maybe I am overcomplicating things.
+
