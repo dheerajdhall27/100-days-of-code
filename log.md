@@ -256,3 +256,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Maybe I am overcomplicating things.
 
+****************************************************************************************************************************************
+### Day 30: March 25, 2020 
+
+**Today's Progress**: Finished the 4th front end project. was fun working on creating a calculator.
+
+**Links:** https://codepen.io/dheerajdhall/full/WNvaQrm
+
+**Thoughts:** Was fun woking on this project. Today marks a month since I started it. Feels good. Gotta keep going
+
