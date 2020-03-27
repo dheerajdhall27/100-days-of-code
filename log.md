@@ -265,3 +265,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Was fun woking on this project. Today marks a month since I started it. Feels good. Gotta keep going
 
+****************************************************************************************************************************************
+### Day 31: March 26, 2020 
+
+**Today's Progress**: Started work on the 5th and final frontend project for the freecodecamp certification.
+
+**Links:** https://codepen.io/dheerajdhall/full/GRJwaNp
+
+**Thoughts:** I think it is required for one to keep coding. The more one does, the better.
+
