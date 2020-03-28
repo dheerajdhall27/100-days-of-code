@@ -274,3 +274,12 @@ The src folder for today would be empty.
 
 **Thoughts:** I think it is required for one to keep coding. The more one does, the better.
 
+****************************************************************************************************************************************
+### Day 32: March 27, 2020 
+
+**Today's Progress**: Finished the 5th and the final frontend project and claimed the certification.
+
+**Links:** https://codepen.io/dheerajdhall/full/GRJwaNp
+
+**Thoughts:** Helped me improve my react skills and made the syntax second nature
+
