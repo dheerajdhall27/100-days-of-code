@@ -283,3 +283,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Helped me improve my react skills and made the syntax second nature
 
+****************************************************************************************************************************************
+### Day 33: March 28, 2020 
+
+**Today's Progress**: Started working towards the Javascript Algorithms and Datastructures certification
+
+
+**Thoughts:** Funny to write a switch case with different datatypes.
+
