@@ -291,3 +291,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Funny to write a switch case with different datatypes.
 
+****************************************************************************************************************************************
+### Day 34: March 29, 2020 
+
+**Today's Progress**: Continued to work on the Javascript Algorithms and DS certification. Worked on basics module and ES6.
+
+
+**Thoughts:** the spread operator makes life so much easier.
+
