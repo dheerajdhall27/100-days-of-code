@@ -299,3 +299,11 @@ The src folder for today would be empty.
 
 **Thoughts:** the spread operator makes life so much easier.
 
+****************************************************************************************************************************************
+### Day 35: March 30, 2020 
+
+**Today's Progress**: Finised the ES6 module and started with the regular expressions module(freecodecamp.org)
+
+
+**Thoughts:** I keep forgetting how to used RegEx. Hopefully it will stick longer this time
+
