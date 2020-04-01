@@ -302,8 +302,16 @@ The src folder for today would be empty.
 ****************************************************************************************************************************************
 ### Day 35: March 30, 2020 
 
-**Today's Progress**: Finised the ES6 module and started with the regular expressions module(freecodecamp.org)
+**Today's Progress**: Finished the ES6 module and started with the regular expressions module(freecodecamp.org)
 
 
 **Thoughts:** I keep forgetting how to used RegEx. Hopefully it will stick longer this time
+
+****************************************************************************************************************************************
+### Day 36: March 31, 2020 
+
+**Today's Progress**: Finished the Regular Expression module.
+
+
+**Thoughts:** I understand regex a bit better now.
 
