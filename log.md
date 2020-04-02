@@ -315,3 +315,11 @@ The src folder for today would be empty.
 
 **Thoughts:** I understand regex a bit better now.
 
+****************************************************************************************************************************************
+### Day 37: April 1, 2020 
+
+**Today's Progress**: Took a break from freecodecamp and worked on my semester project. Worked on Networking using SFML
+
+
+**Thoughts:** Been stuck on making a basic chat application work.
+
