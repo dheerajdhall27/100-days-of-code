@@ -323,3 +323,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Been stuck on making a basic chat application work.
 
+****************************************************************************************************************************************
+### Day 38: April 2, 2020 
+
+**Today's Progress**: Created a chat application using SFML and C++. Used UDP to create the app.
+
+
+**Thoughts:** I understand netwroking basics now. Was fun creating the Application.
+
