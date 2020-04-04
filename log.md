@@ -331,3 +331,11 @@ The src folder for today would be empty.
 
 **Thoughts:** I understand netwroking basics now. Was fun creating the Application.
 
+****************************************************************************************************************************************
+### Day 39: April 3, 2020 
+
+**Today's Progress**: Continued work on the semester project. Built a paint application which uses UDP and allows 4 clients to connect to a server.Uses SFML and c++
+
+
+**Thoughts:** Need to work on Multithreading to make it faster
+
