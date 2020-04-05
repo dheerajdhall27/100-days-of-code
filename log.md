@@ -339,3 +339,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Need to work on Multithreading to make it faster
 
+
+****************************************************************************************************************************************
+### Day 40: April 4, 2020 
+
+**Today's Progress**: Continued work on the semester project. Looked into multithreading to fix the lag. No luck yet
+
+
+**Thoughts:** Try and use pthread instead of sf::Thread
+
