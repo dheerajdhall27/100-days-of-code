@@ -348,11 +348,19 @@ The src folder for today would be empty.
 
 **Thoughts:** Try and use pthread instead of sf::Thread
 
-****************************************************************************************************************************************
+************************************************************************************************************************2********6******
 ### Day 41: April 5, 2020 
 
 **Today's Progress**: Continued work on the semester project. Refactored code and separated Client and Server code into their respective classes.
 
 
 **Thoughts:** App still lags. Have to look into multithreading
+
+****************************************************************************************************************************************
+### Day 42: April 6, 2020 
+
+**Today's Progress**: Continued work on the semester project. Fixed most of the bugs in the application.
+
+
+**Thoughts:** App still lags.Using threads but to no avail
 
