@@ -364,3 +364,11 @@ The src folder for today would be empty.
 
 **Thoughts:** App still lags.Using threads but to no avail
 
+****************************************************************************************************************************************
+### Day 43: April 7, 2020 
+
+**Today's Progress**: Continued work on the semester project. Almost close to completion. Refactored most of the code. Integrated Nuklear to help with the GUI.Application can run 3 clients that can draw simultaneously.
+
+
+**Thoughts:** Lag has decreased but there is some packet loss, this is due to UDP
+
