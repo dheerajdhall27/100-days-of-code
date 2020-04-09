@@ -369,6 +369,11 @@ The src folder for today would be empty.
 
 **Today's Progress**: Continued work on the semester project. Almost close to completion. Refactored most of the code. Integrated Nuklear to help with the GUI.Application can run 3 clients that can draw simultaneously.
 
+****************************************************************************************************************************************
+### Day 44: April 8, 2020 
 
-**Thoughts:** Lag has decreased but there is some packet loss, this is due to UDP
+**Today's Progress**: Continued work on the semester project. Completed phase one. Create a collaborative paint app which uses SFML, C++ and UDP.
+
+
+**Thoughts:** Learned quite a bit about using networking and sfml
 
