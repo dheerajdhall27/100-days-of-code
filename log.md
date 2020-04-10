@@ -377,3 +377,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Learned quite a bit about using networking and sfml
 
+****************************************************************************************************************************************
+### Day 45: April 8, 2020 
+
+**Today's Progress**: Worked on image processing. Created an API for applying filters and transformations to images for a webapp. This is for a second semester project
+
+
+**Thoughts:** Learned about java's image library recently, should explore that.
+
