@@ -385,3 +385,11 @@ The src folder for today would be empty.
 
 **Thoughts:** Learned about java's image library recently, should explore that.
 
+****************************************************************************************************************************************
+### Day 46: April 8, 2020 
+
+**Today's Progress**: Continued with the semester project and worked on port forawarding. Ran the application on two different networks.
+
+
+**Thoughts:** Added exception handling in the app
+
