@@ -378,7 +378,7 @@ The src folder for today would be empty.
 **Thoughts:** Learned quite a bit about using networking and sfml
 
 ****************************************************************************************************************************************
-### Day 45: April 8, 2020 
+### Day 45: April 9, 2020 
 
 **Today's Progress**: Worked on image processing. Created an API for applying filters and transformations to images for a webapp. This is for a second semester project
 
@@ -386,10 +386,19 @@ The src folder for today would be empty.
 **Thoughts:** Learned about java's image library recently, should explore that.
 
 ****************************************************************************************************************************************
-### Day 46: April 9, 2020 
+### Day 46: April 10, 2020 
 
 **Today's Progress**: Continued with the semester project and worked on port forawarding. Ran the application on two different networks.
 
 
 **Thoughts:** Added exception handling in the app
+
+****************************************************************************************************************************************
+### Day 46: April 10, 2020 
+
+**Today's Progress**: Continued with the semester project and fixed the server crash issue and looked into testing the application using catch framework
+
+
+**Thoughts:** It is fun to run the application across newtwork
+
 
