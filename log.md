@@ -394,7 +394,7 @@ The src folder for today would be empty.
 **Thoughts:** Added exception handling in the app
 
 ****************************************************************************************************************************************
-### Day 46: April 10, 2020 
+### Day 46: April 11, 2020 
 
 **Today's Progress**: Continued with the semester project and fixed the server crash issue and looked into testing the application using catch framework
 
