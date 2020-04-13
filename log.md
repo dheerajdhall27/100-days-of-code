@@ -401,4 +401,12 @@ The src folder for today would be empty.
 
 **Thoughts:** It is fun to run the application across newtwork
 
+****************************************************************************************************************************************
+### Day 48: April 12, 2020 
+
+**Today's Progress**: Worked on node.js angular. This was part of an assignment at school, wherein I created a node server and served the fronted with angular. An online system for students to take quiz and look at the courses
+
+
+**Thoughts:** Serving https requests with node is pretty easy
+
 
