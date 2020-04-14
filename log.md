@@ -409,4 +409,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Serving https requests with node is pretty easy
 
+****************************************************************************************************************************************
+### Day 49: April 13, 2020 
+
+**Today's Progress**: Worked on the paint application and added differebt types of brushes. Created brushes using Command Pattern.
+
+
+**Thoughts:** Command pattern makes things modular and easy to code
+
 
