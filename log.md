@@ -417,4 +417,12 @@ The src folder for today would be empty.
 
 **Thoughts:** Command pattern makes things modular and easy to code
 
+****************************************************************************************************************************************
+### Day 50: April 14, 2020 
+
+**Today's Progress**: Worked on the paint application and added square brush. Spent sometime on webdev and worked on an assignment from school. Created a nodejs server and an angular app and deployed both on heroku.
+
+
+**Thoughts:** Working on c++ is quite satisfying.
+
 
