@@ -425,4 +425,22 @@ The src folder for today would be empty.
 
 **Thoughts:** Working on c++ is quite satisfying.
 
+****************************************************************************************************************************************
+### Day 51: April 15, 2020 
+
+**Today's Progress**: Worked on node and angular web app. Created a website for students to take quiz and view their score. This was part of the assignment for school.
+
+
+**Thoughts:** Working on c++ is quite satisfying.
+
+****************************************************************************************************************************************
+### Day 52: April 16, 2020 
+
+**Today's Progress**: Worked on deploying the webapp on heroku and read about MEAN stack. Spent some time on the paint application to do some unit testing.
+
+
+**Thoughts:** Testing the server and client connection is hard
+
+
+
 
