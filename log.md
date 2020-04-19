@@ -441,6 +441,22 @@ The src folder for today would be empty.
 
 **Thoughts:** Testing the server and client connection is hard
 
+****************************************************************************************************************************************
+### Day 53: April 17, 2020 
+
+**Today's Progress**: Did some more unit testing for the paint application and read about JPA to build the back end for the second semester project
+
+
+**Thoughts:** Got the hang of testing but still a lot to learn
+
+****************************************************************************************************************************************
+### Day 54: April 18, 2020 
+
+**Today's Progress**: Submitted the paint application(One of the semester project) for review. Worked on the second semester project (Which is a website similar to instagram). Created the backend part t allow users to login, register, search and update. Used JPA, Spring Boot and MySql
+
+
+**Thoughts:** Creating Api's is a lot of fun. But I still feel very mediocre. Lot to learn
+
 
 
 
