@@ -458,5 +458,67 @@ The src folder for today would be empty.
 **Thoughts:** Creating Api's is a lot of fun. But I still feel very mediocre. Lot to learn
 
 
+****************************************************************************************************************************************
+### Day 55: April 19, 2020 
+
+**Today's Progress**: Worked on the web app. Created the backend to save images and hashtags worked on the front end using React and redux to build a login page and profile page
+
+
+**Thoughts:** Lot to learn about writing good backend code
+
+
+****************************************************************************************************************************************
+### Day 56: April 20, 2020 
+
+**Today's Progress**: Worked on the semester project. Create backend to save images and the front end to display them in the web app
+
+
+**Thoughts:** Full stack development is a lot of fun
+
+
+****************************************************************************************************************************************
+### Day 57: April 21, 2020 
+
+**Today's Progress**: Finished the second semester project. Built a basic web app ok the line of Instagram, with two filters and two transformations for images.
+
+
+**Thoughts:** First proper website, but stil so much learn
+
+
+****************************************************************************************************************************************
+### Day 58: April 22, 2020 
+
+**Today's Progress**: Same as Day 57
+
+
+**Thoughts:**
+
+
+****************************************************************************************************************************************
+### Day 59: April 23, 2020 
+
+**Today's Progress**: Finally finished the spring semester. Worked on the web app created for the semester project. Fixed issues related to responsive behaviours and some of the backend code.
+
+
+**Thoughts:** Learnt a lot about full stack development and software engineering
+
+
+****************************************************************************************************************************************
+### Day 60: April 24, 2020 
+
+**Today's Progress**: Took a day off and did not do any coding today
+
+
+**Thoughts:** 
+
+****************************************************************************************************************************************
+### Day 61: April 25, 2020 
+
+**Today's Progress**: Fixed some bugs on the website and going to retire it for sometime
+
+
+**Thoughts:** React is a pain! need to read about writing good code using react
+
+
 
 
