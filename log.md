@@ -519,6 +519,15 @@ The src folder for today would be empty.
 
 **Thoughts:** React is a pain! need to read about writing good code using react
 
+****************************************************************************************************************************************
+### Day 62: April 26, 2020 
+
+**Today's Progress**: Started working on the Data Visualization certification on freecode camp.Been Wanting to do this for a whilte now.
+
+
+
+**Thoughts:** The javascript certificatiom is on hold. I will get to it after this
+
 
 
 
