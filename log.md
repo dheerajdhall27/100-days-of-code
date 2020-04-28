@@ -528,6 +528,15 @@ The src folder for today would be empty.
 
 **Thoughts:** The javascript certificatiom is on hold. I will get to it after this
 
+****************************************************************************************************************************************
+### Day 63: April 27, 2020 
+
+**Today's Progress**: Finished the module on D3.js on FreeCodeCamp. Not even beginning to scrtch the surface. 
+
+
+
+**Thoughts:** So much to learn! D3.js is pretty cool.
+
 
 
 
