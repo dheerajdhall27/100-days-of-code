@@ -537,6 +537,23 @@ The src folder for today would be empty.
 
 **Thoughts:** So much to learn! D3.js is pretty cool.
 
+****************************************************************************************************************************************
+### Day 64: April 28, 2020 
+
+**Today's Progress**: Looked into D3.js on LinkedIn learning. Learnt about generators and paths, following the course title essential d3.js for data scientists.
+
+
+
+**Thoughts:** So much to learn! D3.js is pretty cool.
+
+****************************************************************************************************************************************
+### Day 65: April 29, 2020 
+
+**Today's Progress**: Finished the module on JSON Api and AJAX. Started work on the first Project for the Data visualization certification.
+
+
+**Thoughts:**   Thinking in terms of D3 is a little bit challenging. But should be able to figure it out
+
 
 
 
