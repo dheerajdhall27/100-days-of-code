@@ -554,6 +554,14 @@ The src folder for today would be empty.
 
 **Thoughts:**   Thinking in terms of D3 is a little bit challenging. But should be able to figure it out
 
+****************************************************************************************************************************************
+### Day 66: April 30, 2020 
+
+**Today's Progress**: Made some progress on the first project for Data Visualization. Charted a bar graph, but the visualization is incorrect. Need to fix it
+
+
+**Thoughts:**   Tried React and D3. Need to look into React hooks
+
 
 
 
