@@ -562,6 +562,15 @@ The src folder for today would be empty.
 
 **Thoughts:**   Tried React and D3. Need to look into React hooks
 
+****************************************************************************************************************************************
+### Day 67: May 1, 2020 
+
+**Today's Progress**: Made some more progress with the project. Still need to figure out scales in D3. Having a hard time focusing for the past few days.
+
+
+**Thoughts:**   Need to look into D3 seriously
+
+
 
 
 
