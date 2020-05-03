@@ -571,6 +571,16 @@ The src folder for today would be empty.
 **Thoughts:**   Need to look into D3 seriously
 
 
+****************************************************************************************************************************************
+### Day 68: May 2, 2020 
+
+**Today's Progress**: Got some more work done towards the first projects. Missing two test cases. Should be able to finish it tomorrow.
+The Bar chart is looking good now.
+
+
+**Thoughts:**   Looked into scales properly, I have a better idea now
+
+
 
 
 
