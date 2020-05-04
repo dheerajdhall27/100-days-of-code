@@ -580,6 +580,14 @@ The Bar chart is looking good now.
 
 **Thoughts:**   Looked into scales properly, I have a better idea now
 
+****************************************************************************************************************************************
+### Day 69: May 3, 2020 
+
+**Today's Progress**: Finished the First project towards the Data Visualization certification. Started working on the second Project, which is to code a scatter plot for Doping in Professional Bicycle racing
+
+
+**Thoughts:**   Getting te hang of D3 but still so much to learn
+
 
 
 
