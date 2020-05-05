@@ -588,6 +588,14 @@ The Bar chart is looking good now.
 
 **Thoughts:**   Getting te hang of D3 but still so much to learn
 
+****************************************************************************************************************************************
+### Day 70: May 4, 2020 
+
+**Today's Progress**: Finished the second project towards the Data Visualization certification. Created a scatter plot for a data of riders from professional bicycle racing that were or were not charged for using drugs.
+
+
+**Thoughts:**  Scatter plot was much easier than the bar visualization
+
 
 
 
