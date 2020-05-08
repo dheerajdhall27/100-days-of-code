@@ -596,6 +596,30 @@ The Bar chart is looking good now.
 
 **Thoughts:**  Scatter plot was much easier than the bar visualization
 
+****************************************************************************************************************************************
+### Day 71: May 5, 2020 
+
+**Today's Progress**: Started the third project for the data visualisation certification on #freecodecamp . Read about drawing out a heat map using #d3js .
+
+
+**Thoughts:** The projects seem hard on first instance, but breaking it down always helps
+
+****************************************************************************************************************************************
+### Day 72: May 6, 2020 
+
+**Today's Progress**: I made some progress towards the certification on #freecodecamp. the Heat map displayed needs to be fixed. Need to read more about scales in D3
+
+
+**Thoughts:** It is annoying to read about new syntax, but need to keep learning technologies
+
+
+****************************************************************************************************************************************
+### Day 73: May 7, 2020 
+
+**Today's Progress**: Finished the third project towards the Data Visualization certification on freecodecamp. It was fun drawing out a heatmap. 
+
+
+**Thoughts:** One step at a time and things become easy
 
 
 
