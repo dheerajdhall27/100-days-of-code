@@ -621,6 +621,22 @@ The Bar chart is looking good now.
 
 **Thoughts:** One step at a time and things become easy
 
+****************************************************************************************************************************************
+### Day 74: May 8, 2020 
+
+**Today's Progress**: Started work on the 4th project towards data visualisation and started learning OpenGL.
+
+
+**Thoughts:** Need to schedule work properly
+
+****************************************************************************************************************************************
+### Day 75: May 9, 2020 
+
+**Today's Progress**: Read about Render pipeline and completed the first lesson to create a window using OpenGL. Setup the environment (GLAD and GLFW).
+
+
+**Thoughts:** Should spend more time
+
 
 
 
