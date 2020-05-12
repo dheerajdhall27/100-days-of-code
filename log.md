@@ -637,6 +637,22 @@ The Bar chart is looking good now.
 
 **Thoughts:** Should spend more time
 
+****************************************************************************************************************************************
+### Day 76: May 10, 2020 
+
+**Today's Progress**: Worked on OpenGL. Read about rendering pipeline admins wrote a small program to render a Triangle. 
+This is a really good resource
+
+
+**Thoughts:** Understood the basics of the pipeline
+
+****************************************************************************************************************************************
+### Day 77: May 11, 2020 
+
+**Today's Progress**: Read about buffer objects, Vertex Array Objects and Element buffer objects. Spent time trying to understand how the data(vertices) passed is connected to the shader code.
+
+**Thoughts:** I have a better idea of the buffer objects
+
 
 
 
