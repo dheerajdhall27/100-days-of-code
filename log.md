@@ -653,6 +653,13 @@ This is a really good resource
 
 **Thoughts:** I have a better idea of the buffer objects
 
+****************************************************************************************************************************************
+### Day 78: May 12, 2020 
+
+**Today's Progress**: Worked and read about shaders in OpenGL. I understood how each shader receives and passes information and also the use of uniforms.
+
+**Thoughts:** Have a better idea of how shaders work
+
 
 
 
