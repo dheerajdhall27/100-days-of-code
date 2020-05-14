@@ -660,6 +660,13 @@ This is a really good resource
 
 **Thoughts:** Have a better idea of how shaders work
 
+****************************************************************************************************************************************
+### Day 79: May 13, 2020 
+
+**Today's Progress**: Revised what I learned in OpenGL. 1) How to create a window 2) How to draw a Triangle 3) How to use shaders 
+
+**Thoughts:** Need to work more!!
+
 
 
 
