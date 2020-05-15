@@ -667,6 +667,13 @@ This is a really good resource
 
 **Thoughts:** Need to work more!!
 
+****************************************************************************************************************************************
+### Day 80: May 14, 2020 
+
+**Today's Progress**: Worked and read about textures in OpenGL. Wrote a small program to apply a texture to a rectangle shape. The idea of mipmaps and sampling is so cool
+
+**Thoughts:** Need to work more!!
+
 
 
 
