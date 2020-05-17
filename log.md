@@ -674,6 +674,19 @@ This is a really good resource
 
 **Thoughts:** Need to work more!!
 
+****************************************************************************************************************************************
+### Day 81: May 15, 2020 
+
+**Today's Progress**: Worked on reviewing the concepts
+
+**Thoughts:** Need to work more!!
+
+****************************************************************************************************************************************
+### Day 82: May 16, 2020 
+
+**Today's Progress**: Worked on Transformation and coordinate systems in OpenGL. Need to work on camera to finish the module
+**Thoughts:** Need to work more!!
+
 
 
 
